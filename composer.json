@@ -1,0 +1,9 @@
+{
+    "name": "admin/asm-php2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\AsmPhp2\\": "src/"
+        }
+    },
+    "require": {}
+}
