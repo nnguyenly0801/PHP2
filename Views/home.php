@@ -10,7 +10,7 @@
             html.className = html.className.replace(/\bno-js\b/, 'js')
         })(document.documentElement);
     </script>
-    <title>ASM PHP2</title>
+    <title>Tin tức</title>
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="prefetch" href="https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3">
@@ -20,7 +20,8 @@
     <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Caritas -  »" href="https://tintuc4.kinhdoanhweb.net/feed/">
     <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Caritas -  »" href="https://tintuc4.kinhdoanhweb.net/comments/feed/">
     <link rel="alternate" type="application/rss+xml" title="Caritas -  » Trang chủ Dòng phản hồi" href="https://tintuc4.kinhdoanhweb.net/trang-chu/feed/">
-    <link rel="alternate" type="application/rss+xml"  href="../assets/css/home-style.css">
+    <link rel="stylesheet" href="../assets/fontawesome-free-6.4.2-web/">
+    <link rel="stylesheet" href="../assets/css/home-style.css">
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -125,24 +126,11 @@
         }((window, document), window._wpemojiSettings);
         /* ]]> */
     </script>
-    
-    
+
     <link rel="stylesheet" id="flatsome-main-css" href="https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.18.2" type="text/css" media="all">
-    <style id="flatsome-main-inline-css" type="text/css">
-        @font-face {
-            font-family: "fl-icons";
-            font-display: block;
-            src: url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.18.2);
-            src:
-                url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.18.2) format("embedded-opentype"),
-                url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.18.2) format("woff2"),
-                url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.18.2) format("truetype"),
-                url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.18.2) format("woff"),
-                url(https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.18.2#fl-icons) format("svg");
-        }
-    </style>
     <link rel="stylesheet" id="flatsome-style-css" href="https://tintuc4.kinhdoanhweb.net/wp-content/themes/flatsome-child/style.css?ver=3.11.3" type="text/css" media="all">
     <script type="text/javascript" src="https://tintuc4.kinhdoanhweb.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
     <script type="text/javascript" src="https://tintuc4.kinhdoanhweb.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
     <link rel="https://api.w.org/" href="https://tintuc4.kinhdoanhweb.net/wp-json/">
     <link rel="alternate" type="application/json" href="https://tintuc4.kinhdoanhweb.net/wp-json/wp/v2/pages/2">
@@ -156,34 +144,24 @@
     <link rel="icon" href="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/logo-caritas.png" sizes="192x192">
     <link rel="apple-touch-icon" href="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/logo-caritas.png">
     <meta name="msapplication-TileImage" content="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/logo-caritas.png">
-   
+
     <script src="https://tintuc4.kinhdoanhweb.net/wp-includes/js/wp-emoji-release.min.js?ver=6.4.1" defer=""></script>
-</head>
+</head><merlin-component id="merlin-uicomponentportal" class="merlin merlin-uicomponentportal"></merlin-component>
 
 <body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-2 framed lightbox nav-dropdown-has-shadow nav-dropdown-has-border">
 
 
-    <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
     <div id="wrapper">
 
 
         <header id="header" class="header has-sticky sticky-jump">
             <div class="header-wrapper">
-               
-                </div>
+
                 <div id="masthead" class="header-main hide-for-sticky">
                     <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
 
-                        <!-- Logo -->
-                        <div id="logo" class="flex-col logo">
 
-                            <!-- Header logo -->
-                            <a href="https://tintuc4.kinhdoanhweb.net/" title="Caritas –  - Dịch vụ thiết kế web chuẩn SEO uy tín, cung cấp theme Wordpress dựng sẵn nhiều lĩnh vực và tối ưu cho mọi thiết bị" rel="home" previewlistener="true">
-                                <img width="105" height="140" src="/wp-content/uploads/2019/04/logo-caritas.png" class="header_logo header-logo" alt="Caritas – "><img width="105" height="140" src="/wp-content/uploads/2019/04/logo-caritas.png" class="header-logo-dark" alt="Caritas – "></a>
-                        </div>
-
-                        <!-- Mobile Left Elements -->
                         <div class="flex-col show-for-medium flex-left">
                             <ul class="mobile-nav nav nav-left ">
                                 <li class="nav-icon has-icon">
@@ -245,16 +223,9 @@
 
                         <div class="flex-col hide-for-medium flex-left">
                             <ul class="nav header-nav header-bottom-nav nav-left  nav-uppercase">
-                                <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-87 active menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/" aria-current="page" class="nav-top-link" previewlistener="true">Trang chủ</a></li>
-                                <li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-70 menu-item-design-default has-dropdown"><a href="https://tintuc4.kinhdoanhweb.net/caritas-phat-diem/" class="nav-top-link" aria-expanded="false" aria-haspopup="menu" previewlistener="true">Caritas Phát Diệm<i class="icon-angle-down"></i></a>
-                                    <ul class="sub-menu nav-dropdown nav-dropdown-simple">
-                                        <li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="https://tintuc4.kinhdoanhweb.net/caritas-phat-diem/chung-toi-lam-gi/" previewlistener="true">Chúng tôi làm gì?</a></li>
-                                        <li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="https://tintuc4.kinhdoanhweb.net/caritas-phat-diem/linh-dao-caritas/" previewlistener="true">Linh đạo Caritas</a></li>
-                                        <li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a href="https://tintuc4.kinhdoanhweb.net/caritas-phat-diem/dieu-le-quy-dinh/" previewlistener="true">Điều lệ, quy định</a></li>
-                                        <li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://tintuc4.kinhdoanhweb.net/caritas-phat-diem/nghi-thuc-gia-nhap/" previewlistener="true">Nghi thức gia nhập</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/category/tieu-diem/" class="nav-top-link" previewlistener="true">Tiêu điểm</a></li>
+                                <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-87 active menu-item-design-default"><a href="home.php" aria-current="page" class="nav-top-link" previewlistener="true">Trang chủ</a></li>
+
+                                <li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82 menu-item-design-default"><a href="tieudiem.php" class="nav-top-link" previewlistener="true">Tiêu điểm</a></li>
                                 <li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-73 menu-item-design-default has-dropdown"><a href="https://tintuc4.kinhdoanhweb.net/category/hoat-dong/" class="nav-top-link" aria-expanded="false" aria-haspopup="menu" previewlistener="true">Hoạt động<i class="icon-angle-down"></i></a>
                                     <ul class="sub-menu nav-dropdown nav-dropdown-simple">
                                         <li id="menu-item-81" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81"><a href="https://tintuc4.kinhdoanhweb.net/category/hoat-dong/khuyet-tat/" previewlistener="true">Khuyết tật</a></li>
@@ -267,11 +238,16 @@
                                         <li id="menu-item-77" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://tintuc4.kinhdoanhweb.net/category/hoat-dong/chia-se/" previewlistener="true">Chia sẻ</a></li>
                                     </ul>
                                 </li>
-                                <li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/category/hinh-anh/" class="nav-top-link" previewlistener="true">Hình ảnh</a></li>
-                                <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/dong-gop/" class="nav-top-link" previewlistener="true">Đóng góp</a></li>
-                                <li id="menu-item-434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-434 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/category/video/" class="nav-top-link" previewlistener="true">Video</a></li>
-                                <li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/suy-niem-loi-chua/" class="nav-top-link" previewlistener="true">Suy niệm Lời Chúa</a></li>
-                                <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86 menu-item-design-default"><a href="https://tintuc4.kinhdoanhweb.net/lien-he/" class="nav-top-link" previewlistener="true">Liên hệ</a></li>
+                                <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71 menu-item-design-default"><a href="donggop.php" class="nav-top-link" previewlistener="true">Đóng góp</a></li>
+                                <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86 menu-item-design-default"><a href="lienhe.php" class="nav-top-link" previewlistener="true">Liên hệ</a></li>
+
+                                <li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-73 menu-item-design-default has-dropdown"><a href="https://tintuc4.kinhdoanhweb.net/category/hoat-dong/" class="nav-top-link" aria-expanded="false" aria-haspopup="menu" previewlistener="true">Tài khoản</a>
+                                    <ul class="sub-menu nav-dropdown nav-dropdown-simple">
+                                        <li id="menu-item-81" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-81"><a href="dangnhap.php" previewlistener="true">Đăng nhập</a></li>
+                                        <li id="menu-item-80" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80"><a href="dangki.php
+                                        " previewlistener="true">Đăng kí</a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
 
@@ -299,28 +275,22 @@
             <div id="content" role="main" class="content-area">
 
 
-                <section class="section post-row" id="section_180203689">
+                <section class="section post-row" id="section_830068832">
                     <div class="bg section-bg fill bg-fill bg-loaded">
-
-
-
-
 
                     </div>
 
-
-
                     <div class="section-content relative">
 
-                        <div class="row row-large" id="row-1203380615">
+                        <div class="row row-large" id="row-1669653274">
 
-                            <div id="col-1628979381" class="col cot8 medium-8 small-12 large-8">
+                            <div id="col-265858265" class="col cot8 medium-8 small-12 large-8">
                                 <div class="col-inner">
 
 
-                                    <div class="row row-small" id="row-2025639316">
+                                    <div class="row row-small" id="row-1986372462">
 
-                                        <div id="col-1092401227" class="col cot7 medium-7 small-12 large-7">
+                                        <div id="col-1191616869" class="col cot7 medium-7 small-12 large-7">
                                             <div class="col-inner">
 
 
@@ -512,7 +482,7 @@
 
 
 
-                                        <div id="col-1770881176" class="col cot5 medium-5 small-12 large-5">
+                                        <div id="col-1840261573" class="col cot5 medium-5 small-12 large-5">
                                             <div class="col-inner">
 
 
@@ -686,20 +656,16 @@
 
 
 
-                            <div id="col-1590395974" class="col cot4 medium-4 small-12 large-4">
+                            <div id="col-1966617337" class="col cot4 medium-4 small-12 large-4">
                                 <div class="col-inner">
 
 
-                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_538852898">
+                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_298077918">
                                         <div class="img-inner dark">
                                             <img decoding="async" width="400" height="214" src="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học.jpg" data-src="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học.jpg" class="attachment-original size-original lazy-load-active" alt="" srcset="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học.jpg 400w, https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học-300x161.jpg 300w" data-srcset="https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học.jpg 400w, https://tintuc4.kinhdoanhweb.net/wp-content/uploads/2019/04/banner-quỹ-khuyến-học-300x161.jpg 300w" sizes="(max-width: 400px) 100vw, 400px">
                                         </div>
 
-                                        <style>
-                                            #image_538852898 {
-                                                width: 100%;
-                                            }
-                                        </style>
+
                                     </div>
 
                                     <div class="du-an-noi-bat">
@@ -721,14 +687,22 @@
 
                 </section>
 
-                <section class="section video-post-section" id="section_1077680171">
-            
+                <section class="section video-post-section" id="section_1997865822">
+                    <div class="bg section-bg fill bg-fill bg-loaded">
+
+                    </div>
+
+
+
                     <div class="section-content relative">
 
-                        <div class="row" id="row-117397143">
+                        <div class="row" id="row-980150839">
 
-                            <div id="col-304196328" class="col small-12 large-12">
+                            <div id="col-170476801" class="col small-12 large-12">
                                 <div class="col-inner">
+
+
+
 
                                     <div class="row row-video-post large-columns-4 medium-columns-1 small-columns-1 row-small slider row-slider slider-nav-simple slider-nav-outside slider-nav-push slider-lazy-load-active is-draggable flickity-enabled" data-flickity-options="{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}" tabindex="0">
 
@@ -819,6 +793,8 @@
                                                                         <a href="https://tintuc4.kinhdoanhweb.net/caritas-xuan-loc-ngay-quoc-te-benh-nhan-va-mung-le-bon-mang/" class="plain" previewlistener="true">Caritas Xuân Lộc: Ngày Quốc Tế Bệnh Nhân và Mừng Lễ Bổn Mạng</a>
                                                                     </h5>
                                                                     <div class="is-divider"></div>
+
+
 
                                                                 </div>
                                                             </div>
@@ -935,7 +911,7 @@
 
                 </section>
 
-                <section class="section post-row" id="section_1980605749">
+                <section class="section post-row" id="section_157348850">
                     <div class="bg section-bg fill bg-fill  bg-loaded">
 
                     </div>
@@ -944,9 +920,9 @@
 
                     <div class="section-content relative">
 
-                        <div class="row" id="row-1410279283">
+                        <div class="row" id="row-1910997901">
 
-                            <div id="col-887464143" class="col cot8 medium-8 small-12 large-8">
+                            <div id="col-1088305140" class="col cot8 medium-8 small-12 large-8">
                                 <div class="col-inner">
 
 
@@ -1072,7 +1048,7 @@
 
 
 
-                            <div id="col-1830338450" class="col cot4 medium-4 small-12 large-4">
+                            <div id="col-821505304" class="col cot4 medium-4 small-12 large-4">
                                 <div class="col-inner">
 
 
@@ -1244,11 +1220,11 @@
                         </div>
                     </div>
 
+
                 </section>
 
-                <section class="section hinh-anh-section" id="section_536722737">
+                <section class="section hinh-anh-section" id="section_319186426">
                     <div class="bg section-bg fill bg-fill  bg-loaded">
-
 
                     </div>
 
@@ -1256,9 +1232,9 @@
 
                     <div class="section-content relative">
 
-                        <div class="row" id="row-1726918662">
+                        <div class="row" id="row-209717962">
 
-                            <div id="col-1168370679" class="col small-12 large-12">
+                            <div id="col-1018187503" class="col small-12 large-12">
                                 <div class="col-inner">
 
 
@@ -1466,14 +1442,7 @@
                         </div>
                     </div>
 
-
-                    <style>
-                        
-                    </style>
                 </section>
-
-
-
 
             </div>
 
@@ -1483,10 +1452,10 @@
 
         <footer id="footer" class="footer-wrapper">
 
-            <div class="row row-large footer-section" id="row-740734370">
+            <div class="row row-large footer-section" id="row-547049517">
 
 
-                <div id="col-724461385" class="col medium-3 small-6 large-3">
+                <div id="col-165881876" class="col medium-3 small-6 large-3">
                     <div class="col-inner">
 
 
@@ -1503,7 +1472,7 @@
 
 
 
-                <div id="col-162990775" class="col medium-3 small-6 large-3">
+                <div id="col-228141365" class="col medium-3 small-6 large-3">
                     <div class="col-inner">
 
 
@@ -1520,7 +1489,7 @@
 
 
 
-                <div id="col-612225774" class="col medium-3 small-6 large-3">
+                <div id="col-244453837" class="col medium-3 small-6 large-3">
                     <div class="col-inner">
 
 
@@ -1536,7 +1505,7 @@
 
 
 
-                <div id="col-642285368" class="col medium-3 small-6 large-3">
+                <div id="col-796238770" class="col medium-3 small-6 large-3">
                     <div class="col-inner">
 
 
@@ -1556,12 +1525,6 @@
             <div class="absolute-footer light medium-text-center text-center">
                 <div class="container clearfix">
 
-
-                    <div class="footer-primary pull-left">
-                        <div class="copyright-footer">
-
-                            © Bản quyền thuộc về Caritas - </div>
-                    </div>
                 </div>
             </div>
 
@@ -1632,7 +1595,24 @@
 
 
     </div>
-    
+
+    <script>
+        (function($) {
+            $(document).ready(function() {
+                // Thay thế link chỉnh sửa trang
+                var outerEl = $('#wp-admin-bar-edit');
+                if (outerEl.length > 0) {
+                    var editLink = outerEl.find('#wp-admin-bar-edit_uxbuilder>a').attr('href');
+                    var originalLink = $('#wp-admin-bar-edit>a').attr('href');
+                    if (typeof editLink != 'undefined') {
+                        outerEl.children('a').attr('href', editLink);
+                        $('#wp-admin-bar-edit_uxbuilder a').attr('href', originalLink).text('Trang chỉnh sửa đầy đủ');
+                    }
+                }
+            });
+        })(jQuery);
+    </script>
+
     <script type="text/javascript" src="https://tintuc4.kinhdoanhweb.net/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
     <script type="text/javascript" id="flatsome-js-js-extra">
         /* <![CDATA[ */
@@ -1678,6 +1658,6 @@
 
 
 
-</body><merlin-component id="merlin-uicomponentportal" class="merlin merlin-uicomponentportal"></merlin-component>
+</body>
 
 </html>
